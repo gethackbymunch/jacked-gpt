@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-063933E3C2"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-063933E3C2");
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="jacked-gpt.css" rel="stylesheet" />
+    <script src="jacked-gpt.js"></script>
+    <title>JackedGPT</title>
+    <meta
+      name="description"
+      content="Discover the future of fitness with JackedGPT.ai! Our AI-driven application creates personalized workout routines tailored to your goals, helping you achieve peak performance. Say goodbye to generic workouts and hello to innovation!"
+    />
+    <meta
+      name="keywords"
+      content="fitness, workout, exercise, health, gym, training, wellness, strength, cardio, yoga, running, calorie, muscle, weight, progress, motivation, lifestyle, ai, gpt, assistant, cardio, aerobics, endurance"
+    />
+    <meta property="og:image" content="screenshot.png" />
+  </head>
+  <body>
+    <div class="logo">
+      <div>
+        <h1 id="title">JackedGPT<span class="ai">.ai</span></h1>
+        <div class="tagline">Your Ultimate Fitness Companion</div>
+      </div>
+    </div>
+    <div class="r-form">
+      <div class="col1 pane">
+        <h2>About you</h2>
+        <table>
+          <tr>
+            <td><label for="age">Age</label></td>
+            <td><input type="number" id="age" min="15" max="80" /></td>
+          </tr>
+          <tr>
+            <td><label for="gender">Gender</label></td>
+            <td>
+              <select id="gender">
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="non-binary">Non-Binary</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td><label for="height1">Height</label></td>
+            <td>
+              <input id="height1" type="number" /> ft
+              <input id="height2" type="number" /> in
+            </td>
+          </tr>
+          <tr>
+            <td><label for="weight">Weight</label></td>
+            <td><input id="weight" type="number" min="50" max="400" /> lb</td>
+          </tr>
+          <tr>
+            <td><label for="build">Build</label></td>
+            <td>
+              <select id="build">
+                <option value="athletic">Athletic</option>
+                <option value="trim">Trim</option>
+                <option value="overweight">Husky</option>
+              </select>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div class="col2 pane">
+        <h2>About your routine</h2>
+        <table>
+          <tr>
+            <td><label for="duration">Duration</label></td>
+            <td>
+              <select id="duration">
+                <option value="15">15 minutes</option>
+                <option value="30" selected>30 minutes</option>
+                <option value="45">45 minutes</option>
+                <option value="60">1 hour</option>
+                <option value="75">1 hour 15 min</option>
+                <option value="90">1 hour 30 min</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td><label for="focus">Focus</label></td>
+            <td>
+              <select id="focus">
+                <option value="full body">Full body</option>
+                <option value="upper body">Upper body</option>
+                <option value="lower body">Lower body</option>
+                <option value="push exercises">Push exercises</option>
+                <option value="pull exercises">Pull exercises</option>
+                <option value="cardio">Cardio</option>
+                <option value="core">Core</option>
+                <option value="shoulders">Biceps</option>
+                <option value="triceps">Triceps</option>
+                <option value="shoulders">Shoulders</option>
+                <option value="chest">Chest</option>
+                <option value="back">Back</option>
+                <option value="abs">Abs</option>
+                <option value="legs">Legs</option>
+              </select>
+              <svg
+                id="ico2focus"
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M17,13H13V17H11V13H7V11H11V7H13V11H17M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"
+                />
+              </svg>
+              <div id="focus2-row">
+                <select id="focus2">
+                  <option value=""></option>
+                  <option value="upper body">Upper body</option>
+                  <option value="lower body">Lower body</option>
+                  <option value="push exercises">Push exercises</option>
+                  <option value="pull exercises">Pull exercises</option>
+                  <option value="cardio">Cardio</option>
+                  <option value="core">Core</option>
+                  <option value="shoulders">Biceps</option>
+                  <option value="triceps">Triceps</option>
+                  <option value="shoulders">Shoulders</option>
+                  <option value="chest">Chest</option>
+                  <option value="back">Back</option>
+                  <option value="abs">Abs</option>
+                  <option value="legs">Legs</option>
+                </select>
+                <svg
+                  id="ico1focus"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M17,13H7V11H17M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"
+                  />
+                </svg>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td><label for="goal">Goal</label></td>
+            <td>
+              <select id="goal">
+                <option value="gain muscle">Gain muscle</option>
+                <option value="lose weight">Lose weight</option>
+                <option value="get fit">Get fit</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" class="checkb1">
+              <input type="checkbox" id="bwOnly" />
+              <label class="no-col" for="bwOnly"
+                >Body weight exercises only</label
+              >
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <input type="checkbox" id="video" />
+              <label class="no-col" for="video"
+                >Include demonstration videos</label
+              >
+            </td>
+          </tr>
+        </table>
+        <div id="btns">
+          <button id="btnGen1">Generate Workout Routine</button>
+        </div>
+      </div>
+    </div>
+    <div id="response" class="pane"></div>
+    <div id="btns2">
+      <button id="btnGen2">Give Me a Different Routine</button>
+    </div>
+    <div class="footer">
+      <a href="disclaimer.html">Disclaimer</a> -
+      <a href="privacy.html">Privacy Policy</a>
+    </div>
+    <div class="footer">&#169; 2024 JackedGPT LLC</div>
+  </body>
+</html>
