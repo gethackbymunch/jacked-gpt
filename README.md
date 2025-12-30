@@ -35,4 +35,20 @@ You will need to set your OpenAI API key to the `OPENAI_API_KEY` variable in Nod
 
 In a web browser, go to the url [http://localhost:2000/](http://localhost:2000/) to play with the UI.
 
+## Configuration
+
+Configurations options are specified in the [config.js](https://github.com/evoluteur/jacked-gpt/blob/main/config.js) file.
+
+
+| Option     | Description      | Example             |
+|------------|------------------|---------------------|
+| apiPath    | Path to Jacked-GPT API. | "/api/v1/"   |
+| apiPort    | Port used for Jacked-GPT API. | 2000   |
+| model      | Port used for Jacked-GPT API. | "gpt-5.2" |
+| apiKey     | OpenAI API key. | (your key)   |
+
+## License
+
+Jacked-GPT is released under the [MIT license](http://github.com/evoluteur/jacked-gpt/blob/main/LICENSE).
+
 Copyright (c) 2025 [Olivier Giulieri](https://evoluteur.github.io/) and [Phil Rosace](https://www.linkedin.com/in/philiprosace/).
