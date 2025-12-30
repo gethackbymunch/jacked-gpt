@@ -1,0 +1,23 @@
+{
+  "name": "jacked-gpt",
+  "version": "2.0.0",
+  "type": "module",
+  "repository": "github:evoluteur/jacked-gpt",
+  "description": "Jacked-GPT: Your Ultimate Fitness Companion",
+  "main": "app.js",
+  "copyright": "(c) 2025 Olivier Giulieri & Phil Rosace",
+  "author": "Olivier Giulieri (https://evoluteur.github.io/)",
+  "scripts": {
+    "start": "supervisor ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "21.x"
+  },
+  "dependencies": {
+    "supervisor": "~0.12.0",
+    "openai": "^4.38.1",
+    "express": "~4.19.2",
+    "body-parser": "~1.20.2"
+  }
+}
