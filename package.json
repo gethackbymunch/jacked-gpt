@@ -19,5 +19,24 @@
     "openai": "^6.15.0",
     "express": "~5.2.1",
     "body-parser": "~2.2.1"
-  }
+  },
+  "keywords": [
+    "ai",
+    "gpt",
+    "fitness",
+    "routines",
+    "chatgpt",
+    "workout",
+    "workouts",
+    "workout-app",
+    "exercise",
+    "health",
+    "training",
+    "personal-trainer",
+    "ui",
+    "javascript",
+    "nodejs",
+    "express",
+    "openai"
+  ]
 }
